@@ -45,7 +45,7 @@
   "dependencies": {
     "@nuxt/kit": "^3.7.3",
     "pathe": "^1.1.2",
-    "primevue": "npm:accessibleprimevue@3.53.1"
+    "primevue": "npm:accessibleprimevue@3.53.4"
   },
   "devDependencies": {
     "@types/node": "^18.17.17",
