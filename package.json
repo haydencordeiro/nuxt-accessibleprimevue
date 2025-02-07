@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/primefaces/primevue-nuxt-module.git"
+    "url": "https://github.com/haydencordeiro/nuxt-accessibleprimevue"
   },
   "license": "MIT",
   "sideEffects": false,
