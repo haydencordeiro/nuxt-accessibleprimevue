@@ -1,4 +1,4 @@
-![nuxt-primevue](https://github.com/primefaces/primevue-nuxt-module/assets/11868120/c35e1180-573f-4650-bbe9-0c79bff71f05)
+![nuxt-accessibleprimevue](https://github.com/primefaces/primevue-nuxt-module/assets/11868120/c35e1180-573f-4650-bbe9-0c79bff71f05)
 
 # PrimeVue Nuxt Module
 
@@ -12,33 +12,31 @@
   
 ## Quick Setup
 
-1. Add `nuxt-primevue` dependency to your project
+1. Add `nuxt-accessibleprimevue` dependency to your project
 
 ```bash
-npx nuxi@latest module add primevue
+npx nuxi@latest module add accessibleprimevue
 ```
 
-2. Add `nuxt-primevue` to the `modules` section of `nuxt.config.{ts,js}`
+2. Add `nuxt-accessibleprimevue` to the `modules` section of `nuxt.config.{ts,js}`
 
 ```js
 {
   modules: [
-    'nuxt-primevue'
+    'nuxt-accessibleprimevue'
   ]
 }
 ```
 
-That's it! You can now use `nuxt-primevue` in your Nuxt app ✨
+That's it! You can now use `nuxt-accessibleprimevue` in your Nuxt app ✨
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-primevue/latest.svg?color
-[npm-version-href]: https://npmjs.com/package/nuxt-primevue
+[npm-version-src]: https://img.shields.io/npm/v/nuxt-accessibleprimevue/latest.svg?color
+[npm-version-href]: https://npmjs.com/package/nuxt-accessibleprimevue
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-primevue
-[npm-downloads-href]: https://npmjs.com/package/nuxt-primevue
+[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-accessibleprimevue
+[npm-downloads-href]: https://npmjs.com/package/nuxt-accessibleprimevue
 
-[discord-src]: https://img.shields.io/discord/557940238991753223.svg?colorB=7289da&label=chat&logo=discord
-[discord-href]: https://discord.gg/gzKFYnpmCY
 
-[license-src]: https://img.shields.io/npm/l/nuxt-primevue.svg?style=flat&colorB=yellow
-[license-href]: https://npmjs.com/package/nuxt-primevue
+[license-src]: https://img.shields.io/npm/l/nuxt-accessibleprimevue.svg?style=flat&colorB=yellow
+[license-href]: https://npmjs.com/package/nuxt-accessibleprimevue
