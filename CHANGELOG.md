@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v3.0.8
+
+[compare changes](https://github.com/haydencordeiro/nuxt-accessibleprimevue/compare/v3.0.6...v3.0.8)
+
 ## v3.0.6
 
 [compare changes](https://github.com/haydencordeiro/nuxt-accessibleprimevue/compare/v3.0.5...v3.0.6)
