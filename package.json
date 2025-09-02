@@ -1,6 +1,6 @@
 {
   "name": "nuxt-accessibleprimevue",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Nuxt module for PrimeVue",
   "keywords": [
     "vue",
@@ -45,7 +45,7 @@
   "dependencies": {
     "@nuxt/kit": "^3.7.3",
     "pathe": "^1.1.2",
-    "primevue": "npm:accessibleprimevue@latest"
+    "primevue": "npm:accessibleprimevue@3.54.1"
   },
   "devDependencies": {
     "@types/node": "^18.17.17",
