@@ -1,5 +1,6 @@
 export default defineNuxtConfig({
   modules: ['../src/module'],
+
   primevue: {
     usePrimeVue: true,
     options: {
@@ -27,6 +28,8 @@ export default defineNuxtConfig({
       exclude: undefined
     }
   },
+
   devtools: { enabled: true },
-  css: ['primevue/resources/themes/lara-light-indigo/theme.css']
+  css: ['primevue/resources/themes/lara-light-indigo/theme.css'],
+  compatibilityDate: '2025-04-07'
 });
